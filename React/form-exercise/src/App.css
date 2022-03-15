@@ -1,0 +1,55 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  font-size: 1.3rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body{
+  background: rgb(122,249,182);
+  background: radial-gradient(circle, rgba(122,249,182,1) 25%, rgba(157,243,207,1) 38%, rgba(202,240,233,1) 78%); 
+}
+
+
+form {
+    width: 500px;
+    height: 550px;
+    text-align: center;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    margin: 90px 500px;
+    border: 1px solid;
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: white;
+}
+
+.borderDiv{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  border: 1px solid blanchedalmond;
+  padding: 5px;
+  background-color: blanchedalmond;
+  border-radius: 4px;
+}
+
+input {
+  margin-left: 30px;
+  width: 50%;
+}
+
+.Impresionp{
+  margin-top: 20px;
+}
+h2{
+  margin-bottom: 40px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p{
+  font-size: 1.0rem;
+}

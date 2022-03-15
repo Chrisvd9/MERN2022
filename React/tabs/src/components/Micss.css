@@ -1,0 +1,10 @@
+.pestanas {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+
+}
+
+.active {
+    background-color: red;
+}

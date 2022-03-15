@@ -1,0 +1,30 @@
+.content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.box{
+    margin: 10px;
+    height: 150px;
+}
+
+body{
+    background: rgb(135,249,250);
+    background: radial-gradient(circle, rgba(135,249,250,1) 28%, rgba(157,243,230,1) 56%, rgba(238,247,246,1) 100%); 
+}
+
+.forms {
+    font-size: 1.2rem;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.btn {
+    padding: 5px;
+    border-radius: 4px;
+    font-size: medium;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: white;
+}

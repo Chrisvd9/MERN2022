@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.PersonCard {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: start;
+}
+
+#BD {
+  border-radius: 4px;
+  background-color: #E6E6E6;
+  padding: 8px;
+  margin-top: 20px;
+  color: #3d3c3cc4;
+  cursor: pointer;
+}
+#BD:hover {
+  background-color: rgb(110, 108, 108);
+}
