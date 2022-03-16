@@ -1,2 +1,2 @@
 # MERN-2022
-Aquí estaran todos los proyectos de Coding Dojo 2022
+Aquí estaran todas las tareas de Coding Dojo 2022
