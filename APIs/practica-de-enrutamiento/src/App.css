@@ -1,0 +1,20 @@
+nav ul{
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  list-style: none;
+}
+
+.Home {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.Home2{
+  margin-top: 90px;
+  text-align: center;
+  background-color: #FFCCCC;
+  color: #3F32F2;
+  padding: 3px;
+  border: 2px solid black;
+}
