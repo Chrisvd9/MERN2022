@@ -1,11 +1,10 @@
-import './App.scss';
-import Home from './views/Home';
-
+import './App.css';
+import Luke from './components/Luke';
 
 function App() {
   return (
     <div className="App">
-      <Home />
+      <Luke/>
     </div>
   );
 }
